@@ -1,5 +1,5 @@
 from microdot import Microdot
-import mm_wlan, pico_w_server
+import mm_wlan
 from pmon import PlantMonitor
 
 
